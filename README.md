@@ -1,6 +1,6 @@
 # ChatBot_JS
 
-![GitHub](https://img.shields.io/github/license/https://github.com/LombaAnderson/ChatBot_JS/blob/master/LICENSE
+[![NPM](https://img.shields.io/npm/l/react)]https://github.com/LombaAnderson/ChatBot_JS/blob/master/LICENSE
 ![GitHub repo size](https://img.shields.io/github/repo-size/LombaAnderson/Chatbot_JS)
 
 
